@@ -16,4 +16,16 @@ Inicialmente, se han creado 4 clases para este modelo, las cuales son:
 - Sustentacion: Brinda la fecha en la que se realizará la sustentación, así como el lugar (presencial o virtual) y la mención (aprobado, muy bien y sobresaliente) que ha obtenido el alumno.
 
 
+## Enlaces
+
+A través de los siguientes enlaces, puede entrar a los formularios de cada clase y también al formulario de búsqueda de Maestrías.
+
+http://localhost:8000/maestriasForm/
+http://localhost:8000/alumnoForm/
+http://localhost:8000/trabajodegradoForm/
+http://localhost:8000/sustentacionForm/
+
+http://localhost:8000/buscarMaestrias/
+
+
 
