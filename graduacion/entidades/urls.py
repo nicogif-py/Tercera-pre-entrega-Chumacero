@@ -10,8 +10,11 @@ urlpatterns = [
 
 #Formularios
 path('maestriasForm/', maestriasForm, name="maestriasForm"),
+path('alumnoForm/', alumnoForm, name="alumnoForm"),
+path('trabajodegradoForm/', trabajodegradoForm, name="trabajodegradoForm"),
+path('sustentacionForm/', sustentacionForm, name="sustentacionForm"),
 
 #Buscar
 path('buscarMaestrias/', buscarMaestrias, name="buscarMaestrias"),
-path('buscarMaestrias/', encontrarMaestrias, name="encontrarMaestrias"),
+path('encontrarMaestrias/', encontrarMaestrias, name="encontrarMaestrias"),
 ]   
